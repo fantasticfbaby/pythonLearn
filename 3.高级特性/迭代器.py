@@ -1,0 +1,22 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+print('也可被next函数调用不断返回下一个值的对象成为迭代器：iterator')
+from collections import Iterator
+print('判断生成器是不是Iterator对象')
+print(isinstance((x for x in range(10)), Iterator))
+print()
+print('判断list是不是Iterator对象')
+print(isinstance([], Iterator))
+print()
+print('判断dict是不是Iterator对象')
+print(isinstance({}, Iterator))
+print()
+print('判断tuple是不是Iterator对象')
+print(isinstance((), Iterator))
+print()
+print('判断字符串是不是Iterator对象')
+print(isinstance('abc', Iterator))
+print()
+print('把list,dict,str等Iterable变成Iterator，使用iter()')
+print(isinstance(iter([]), Iterator))
+print()
