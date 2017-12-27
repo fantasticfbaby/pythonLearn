@@ -16,13 +16,15 @@ print('斐波那契数列')
 print('函数中包含yield关键字，这个函数就是一个generator')
 print('执行流程是每次调用next的时候执行，遇到yield返回，再次执行时从上次返回的yield从继续执行')
 
+
 def fib(max):
-    n, a, b = 0, 0, 1 # 很方便有没有
+    n, a, b = 0, 0, 1  # 很方便有没有
     while n < max:
         yield b
-        a,b = b,a+b
-        n+=1
+        a, b = b, a + b
+        n += 1
     return 'done'
+
 
 print(fib(6))
 for n in fib(6):
@@ -41,15 +43,19 @@ while True:
 
 print()
 print('杨辉三角')
+
+
 def triangles():
     L = [1]
     while True:
         yield L
-        L = [1] + [L[i] + L[i+1] for i in range(len(L)-1)] + [1]
+        L = [1] + [L[i] + L[i + 1] for i in range(len(L) - 1)] + [1]
+
 
 n = 0
 for t in triangles():
     print(t)
-    n+=1
+    n += 1
     if n == 10:
         break
+
