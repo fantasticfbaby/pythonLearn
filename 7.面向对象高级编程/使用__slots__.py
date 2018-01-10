@@ -19,3 +19,5 @@ def set_score(self, score):
 Student.set_score = set_score
 s.set_score(100)
 print(s.score)
+
+print(dir(s))
