@@ -26,3 +26,20 @@ elif bmi < 32 and bmi >= 28:
     print('肥胖：%.2f' % bmi)
 else:
     print('严重肥胖：%.2f' % bmi)
+
+a = 0
+a = a + 1 if a > 0 else a - 1
+print(a)
+
+# 同
+if a > 0:
+    a = a + 1
+else:
+    a = a - 1
+
+
+upperLimit = 10
+lowerLimit = 0
+aValue = 5
+if lowerLimit < aValue < upperLimit: # 牛逼
+    print(aValue)

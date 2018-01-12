@@ -4,6 +4,8 @@ from collections import Iterable
 
 str = 'abcdefg'
 
+print(str*2)
+
 str = 'abcdedefg'
 print(str.count('de', 0, str.__len__() - 1))
 str = 'abcdefg'

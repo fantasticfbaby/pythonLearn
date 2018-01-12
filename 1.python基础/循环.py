@@ -30,3 +30,9 @@ L = ['Bart', 'Lisa', 'Adam']
 for i in L:
     print('Hello, %s!' % i)
 
+# enumerate
+for number, line in enumerate(open('helloworld.py')):
+    print(number, '\t', line)
+
+for number, line in enumerate(open('helloworld.py'), 1):
+    print(number, '\t', line)

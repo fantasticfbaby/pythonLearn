@@ -2,10 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80b93244-19d7-4cda-a9c5-a4a8b5814561" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/11.正则表达式/正则.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/12.常用内建模块/_collections.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/12.常用内建模块/_datetime.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/1.python基础/all-any.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/1.python基础/数学.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.常用内建模块/_SHA1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.常用内建模块/_base64.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.常用内建模块/_contextlib.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.常用内建模块/_hmac.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.常用内建模块/_htmlParser.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.常用内建模块/_itertools.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.常用内建模块/_md5.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.常用内建模块/_struct.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.常用内建模块/_urllib/exercise.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.常用内建模块/_urllib/get.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.常用内建模块/_urllib/post.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.常用内建模块/_xml.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/13.常用第三方模块/Pillow/blur.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/13.常用第三方模块/Pillow/scale.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/13.常用第三方模块/Pillow/test.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/13.常用第三方模块/Pillow/verify_code.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/13.常用第三方模块/chardet/_chardet.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/13.常用第三方模块/psutil/_psutil.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/13.常用第三方模块/requests/_request.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/15.图形界面/_Tkinter.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/16.网络编程/TCP编程/client.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/16.网络编程/TCP编程/client2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/16.网络编程/TCP编程/server.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/16.网络编程/UDP编程/client.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/16.网络编程/UDP编程/server.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/18.访问数据库/_mysql.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/20.异步IO/aio_web.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/20.异步IO/async_await/async_await_hello.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/20.异步IO/async_await/async_await_wget.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/20.异步IO/asyncio/asyncio_hello.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/20.异步IO/asyncio/asyncio_wget.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/20.异步IO/协程.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tf_utils/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tf_utils/pretty_dict.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/0.TEST/test.py" afterPath="$PROJECT_DIR$/0.TEST/test.py" />
+      <change beforePath="$PROJECT_DIR$/1.python基础/dict(map) 与set.py" afterPath="$PROJECT_DIR$/1.python基础/dict(map) 与set.py" />
+      <change beforePath="$PROJECT_DIR$/1.python基础/output&amp;input.py" afterPath="$PROJECT_DIR$/1.python基础/output&amp;input.py" />
+      <change beforePath="$PROJECT_DIR$/1.python基础/string.py" afterPath="$PROJECT_DIR$/1.python基础/string.py" />
+      <change beforePath="$PROJECT_DIR$/1.python基础/循环.py" afterPath="$PROJECT_DIR$/1.python基础/循环.py" />
+      <change beforePath="$PROJECT_DIR$/1.python基础/数组.py" afterPath="$PROJECT_DIR$/1.python基础/数组.py" />
+      <change beforePath="$PROJECT_DIR$/1.python基础/条件判断.py" afterPath="$PROJECT_DIR$/1.python基础/条件判断.py" />
+      <change beforePath="$PROJECT_DIR$/7.面向对象高级编程/使用元类.py" afterPath="$PROJECT_DIR$/7.面向对象高级编程/使用元类.py" />
+      <change beforePath="$PROJECT_DIR$/7.面向对象高级编程/使用枚举类.py" afterPath="$PROJECT_DIR$/7.面向对象高级编程/使用枚举类.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,67 +58,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="线程创建.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.进程和线程/线程/线程创建.py">
+      <file leaf-file-name="使用元类.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/7.面向对象高级编程/使用元类.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="340">
+              <caret line="102" column="32" lean-forward="false" selection-start-line="102" selection-start-column="32" selection-end-line="102" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task_master.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.进程和线程/分布式进程/task_master.py">
+      <file leaf-file-name="函数参数.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.函数/函数参数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-              <folding>
-                <element signature="e#48#74#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task_worker.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.进程和线程/分布式进程/task_worker.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-              <folding>
-                <element signature="e#48#71#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="正则.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11.正则表达式/正则.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="980">
-              <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state relative-caret-position="364">
+              <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_datetime.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12.常用内建模块/_datetime.py">
+      <file leaf-file-name="leaveNote.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0.TEST/leaveNote.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-              <folding>
-                <element signature="e#48#98#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="192">
+              <caret line="8" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_collections.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12.常用内建模块/_collections.py">
+      <file leaf-file-name="leaveNote.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0.TEST/leaveNote.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+            <state relative-caret-position="48">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -95,9 +111,20 @@
     <findStrings>
       <find>fmin_l</find>
       <find>cStringIO</find>
+      <find>e</find>
+      <find>data</find>
+      <find>pi</find>
+      <find>pi2</find>
+      <find>test.jpg</find>
+      <find>terminal</find>
+      <find>yield from</find>
     </findStrings>
     <replaceStrings>
       <replace>io</replace>
+      <replace>bmpData</replace>
+      <replace>pi2</replace>
+      <replace>pi3</replace>
+      <replace>await</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -106,43 +133,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0.TEST/neural_style_transfer.py" />
-        <option value="$PROJECT_DIR$/0.TEST/big.txt" />
-        <option value="$PROJECT_DIR$/0.TEST/spellCheck.py" />
-        <option value="$PROJECT_DIR$/3.高级特性/生成器.py" />
-        <option value="$PROJECT_DIR$/3.高级特性/迭代器.py" />
-        <option value="$PROJECT_DIR$/9.IO编程/StringIO&amp;BytesIO.py" />
-        <option value="$PROJECT_DIR$/9.IO编程/操作文件和目录.py" />
-        <option value="$PROJECT_DIR$/0.TEST/重定向.py" />
-        <option value="$PROJECT_DIR$/成品/重定向.py" />
-        <option value="$PROJECT_DIR$/1.python基础/string.py" />
-        <option value="$PROJECT_DIR$/成品/连接非字符串数组.py" />
+        <option value="$PROJECT_DIR$/1.python基础/循环.py" />
+        <option value="$PROJECT_DIR$/1.python基础/output&amp;input.py" />
+        <option value="$PROJECT_DIR$/1.python基础/数学.py" />
+        <option value="$PROJECT_DIR$/0.TEST/__init__.py" />
+        <option value="$PROJECT_DIR$/0.TEST/test1.py" />
+        <option value="$PROJECT_DIR$/te.py" />
+        <option value="$PROJECT_DIR$/12.常用内建模块/_base64.py" />
+        <option value="$PROJECT_DIR$/12.常用内建模块/_struct.py" />
+        <option value="$PROJECT_DIR$/12.常用内建模块/_SHA1.py" />
+        <option value="$PROJECT_DIR$/12.常用内建模块/_md5.py" />
+        <option value="$PROJECT_DIR$/12.常用内建模块/_hmac.py" />
+        <option value="$PROJECT_DIR$/12.常用内建模块/_itertools.py" />
+        <option value="$PROJECT_DIR$/12.常用内建模块/_contextlib.py" />
+        <option value="$PROJECT_DIR$/12.常用内建模块/_urllib.py" />
+        <option value="$PROJECT_DIR$/12.常用内建模块/_urllib/get.py" />
+        <option value="$PROJECT_DIR$/12.常用内建模块/_urllib/post.py" />
+        <option value="$PROJECT_DIR$/12.常用内建模块/_urllib/exercise.py" />
+        <option value="$PROJECT_DIR$/tf_utils/pretty_dict.py" />
+        <option value="$PROJECT_DIR$/12.常用内建模块/_xml.py" />
+        <option value="$PROJECT_DIR$/12.常用内建模块/_htmlParser.py" />
+        <option value="$PROJECT_DIR$/13.常用第三方模块/Pillow/scale.py" />
         <option value="$PROJECT_DIR$/9.IO编程/序列化.py" />
-        <option value="$PROJECT_DIR$/0.TEST/闭包.py" />
-        <option value="$PROJECT_DIR$/7.面向对象高级编程/使用__slots__.py" />
-        <option value="$PROJECT_DIR$/10.进程和线程/多进程.py" />
-        <option value="$PROJECT_DIR$/10.进程和线程/进程池.py" />
-        <option value="$PROJECT_DIR$/10.进程和线程/多进程创建.py" />
-        <option value="$PROJECT_DIR$/10.进程和线程/子进程.py" />
-        <option value="$PROJECT_DIR$/10.进程和线程/进程间通信.py" />
+        <option value="$PROJECT_DIR$/9.IO编程/StringIO&amp;BytesIO.py" />
+        <option value="$PROJECT_DIR$/13.常用第三方模块/Pillow/blur.py" />
+        <option value="$PROJECT_DIR$/0.TEST/leaveNote.py" />
+        <option value="$PROJECT_DIR$/13.常用第三方模块/Pillow/verify_code.py" />
+        <option value="$PROJECT_DIR$/13.常用第三方模块/requests/_request.py" />
+        <option value="$PROJECT_DIR$/13.常用第三方模块/chardet/_chardet.py" />
+        <option value="$PROJECT_DIR$/13.常用第三方模块/psutil/_psutil.py" />
+        <option value="$PROJECT_DIR$/15.图形界面/_Tkinter.py" />
+        <option value="$PROJECT_DIR$/16.网络编程/TCP编程/sina.html" />
+        <option value="$PROJECT_DIR$/16.网络编程/TCP编程/client.py" />
+        <option value="$PROJECT_DIR$/16.网络编程/TCP编程/server.py" />
+        <option value="$PROJECT_DIR$/16.网络编程/TCP编程/client2.py" />
+        <option value="$PROJECT_DIR$/16.网络编程/UDP编程/server.py" />
+        <option value="$PROJECT_DIR$/16.网络编程/UDP编程/client.py" />
+        <option value="$PROJECT_DIR$/18.访问数据库/_mysql.py" />
+        <option value="$PROJECT_DIR$/20.异步IO/协程.py" />
+        <option value="$PROJECT_DIR$/20.异步IO/asyncio.coroutine.py" />
+        <option value="$PROJECT_DIR$/20.异步IO/asyncio.py" />
         <option value="$PROJECT_DIR$/0.TEST/test.py" />
-        <option value="$PROJECT_DIR$/10.进程和线程/线程/线程创建.py" />
-        <option value="$PROJECT_DIR$/10.进程和线程/分布式进程/task_workder.py" />
-        <option value="$PROJECT_DIR$/10.进程和线程/分布式进程/task_worker.py" />
-        <option value="$PROJECT_DIR$/10.进程和线程/分布式进程/task_master.py" />
-        <option value="$PROJECT_DIR$/10.进程和线程/线程/锁.py" />
-        <option value="$PROJECT_DIR$/11.正则表达式/正则.py" />
-        <option value="$PROJECT_DIR$/12.常用内建模块/datetime.py" />
-        <option value="$PROJECT_DIR$/12.常用内建模块/_datetime.py" />
-        <option value="$PROJECT_DIR$/12.常用内建模块/_collections.py" />
+        <option value="$PROJECT_DIR$/20.异步IO/_asyncio.py" />
+        <option value="$PROJECT_DIR$/20.异步IO/_asyncio_test.py" />
+        <option value="$PROJECT_DIR$/20.异步IO/asyncio/asyncio_hello.py" />
+        <option value="$PROJECT_DIR$/20.异步IO/asyncio/asyncio_wget.py" />
+        <option value="$PROJECT_DIR$/20.异步IO/async_await_hello.py" />
+        <option value="$PROJECT_DIR$/20.异步IO/async_await/async_await_wget.py" />
+        <option value="$PROJECT_DIR$/20.异步IO/aio_web.py" />
+        <option value="$PROJECT_DIR$/7.面向对象高级编程/使用枚举类.py" />
+        <option value="$PROJECT_DIR$/7.面向对象高级编程/使用元类.py" />
+        <option value="$PROJECT_DIR$/0.TEST/leaveNote.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="319" />
-    <option name="y" value="-16" />
-    <option name="width" value="960" />
-    <option name="height" value="1032" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -178,8 +227,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,7 +242,7 @@
             <path>
               <item name="python学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="python学习" type="462c0819:PsiDirectoryNode" />
-              <item name="6.面向对象编程" type="462c0819:PsiDirectoryNode" />
+              <item name="2.函数" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python学习" type="b2602c69:ProjectViewProjectNode" />
@@ -205,35 +252,45 @@
             <path>
               <item name="python学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="python学习" type="462c0819:PsiDirectoryNode" />
-              <item name="10.进程和线程" type="462c0819:PsiDirectoryNode" />
+              <item name="20.异步IO" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="python学习" type="462c0819:PsiDirectoryNode" />
-              <item name="10.进程和线程" type="462c0819:PsiDirectoryNode" />
-              <item name="进程" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python学习" type="462c0819:PsiDirectoryNode" />
-              <item name="12.常用内建模块" type="462c0819:PsiDirectoryNode" />
+              <item name="实战" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/实战/awesome-python3-webapp" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="python学习" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="python学习" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\python学习\20.异步IO\async_await" />
+      <recent name="D:\code\python学习\13.常用第三方模块\Pillow" />
       <recent name="D:\code\python学习\0.TEST" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\code\python学习\10.进程和线程\进程" />
-      <recent name="D:\code\python学习\10.进程和线程" />
-      <recent name="D:\code\python学习\4.函数式编程" />
-      <recent name="D:\code\python学习\成品" />
-      <recent name="D:\code\python学习\1.python基础" />
+      <recent name="D:\code\python学习\20.异步IO\async_await" />
+      <recent name="D:\code\python学习\20.异步IO\asyncio" />
+      <recent name="D:\code\python学习\tf_utils" />
+      <recent name="D:\code\python学习\12.常用内建模块\_urllib" />
+      <recent name="D:\code\python学习\12.常用内建模块" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -248,74 +305,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python._collections">
-    <configuration name="正则" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.使用元类">
+    <configuration name="使用枚举类" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11.正则表达式" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.面向对象高级编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python学习" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.正则表达式/正则.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="文件读写" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9.IO编程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python学习" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.IO编程/文件读写.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="操作文件和目录" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9.IO编程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python学习" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.IO编程/操作文件和目录.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="重定向" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/成品" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python学习" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/成品/重定向.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.面向对象高级编程/使用枚举类.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -411,92 +414,146 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="_collections" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="数学" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12.常用内建模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.python基础" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python学习" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.常用内建模块/_collections.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.python基础/数学.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="_datetime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="使用元类" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12.常用内建模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.面向对象高级编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python学习" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.常用内建模块/_datetime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.面向对象高级编程/使用元类.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="datetime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="函数参数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12.常用内建模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.函数" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python学习" />
-      <option name="SCRIPT_NAME" value="D:\code\python学习\12.常用内建模块\_datetime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.函数/函数参数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="task_worker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="aio_web" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.进程和线程/分布式进程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20.异步IO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python学习" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.进程和线程/分布式进程/task_worker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20.异步IO/aio_web.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="async_await_wget" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20.异步IO/async_await" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python学习" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20.异步IO/async_await/async_await_wget.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="client2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16.网络编程/TCP编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python学习" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16.网络编程/TCP编程/client2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="leaveNote" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0.TEST" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python学习" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0.TEST/leaveNote.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.task_worker" />
-      <item index="1" class="java.lang.String" itemvalue="Python.正则" />
-      <item index="2" class="java.lang.String" itemvalue="Python.datetime" />
-      <item index="3" class="java.lang.String" itemvalue="Python._datetime" />
-      <item index="4" class="java.lang.String" itemvalue="Python._collections" />
+      <item index="0" class="java.lang.String" itemvalue="Python.async_await_wget" />
+      <item index="1" class="java.lang.String" itemvalue="Python.使用枚举类" />
+      <item index="2" class="java.lang.String" itemvalue="Python.使用元类" />
+      <item index="3" class="java.lang.String" itemvalue="Python.函数参数" />
+      <item index="4" class="java.lang.String" itemvalue="Python.leaveNote" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python._collections" />
-        <item index="1" class="java.lang.String" itemvalue="Python._datetime" />
-        <item index="2" class="java.lang.String" itemvalue="Python.datetime" />
-        <item index="3" class="java.lang.String" itemvalue="Python.正则" />
-        <item index="4" class="java.lang.String" itemvalue="Python.task_worker" />
+        <item index="0" class="java.lang.String" itemvalue="Python.使用元类" />
+        <item index="1" class="java.lang.String" itemvalue="Python.leaveNote" />
+        <item index="2" class="java.lang.String" itemvalue="Python.函数参数" />
+        <item index="3" class="java.lang.String" itemvalue="Python.使用枚举类" />
+        <item index="4" class="java.lang.String" itemvalue="Python.async_await_wget" />
       </list>
     </recent_temporary>
   </component>
@@ -535,7 +592,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515586138161</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="collections">
+      <created>1515592284680</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1515592284680</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -545,12 +609,12 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14799154" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34741783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36619717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39906102" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -568,69 +632,62 @@
     <MESSAGE value="修改" />
     <MESSAGE value="重定向" />
     <MESSAGE value="进程" />
-    <option name="LAST_COMMIT_MESSAGE" value="进程" />
+    <MESSAGE value="collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="collections" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="20" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/成品/风格迁移/me_t_at_iteration_5.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/成品/风格迁移/me_t_at_iteration_6.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/成品/风格迁移/me_t_at_iteration_7.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/成品/风格迁移/me_t_at_iteration_8.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/成品/风格迁移/me_t_at_iteration_2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/成品/风格迁移/me_t_at_iteration_3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/成品/风格迁移/me_t_at_iteration_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/成品/风格迁移/me_t_at_iteration_0.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/成品/风格迁移/me_t_at_iteration_9.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/成品/风格迁移/me.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1099968596/nt.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/json/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="326" column="4" lean-forward="false" selection-start-line="326" selection-start-column="4" selection-end-line="326" selection-end-column="4" />
+        <state relative-caret-position="-1121">
+          <caret line="295" column="27" lean-forward="true" selection-start-line="295" selection-start-column="27" selection-end-line="295" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.常用内建模块/_urllib/exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_utils/pretty_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/html/parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="436" column="0" lean-forward="true" selection-start-line="436" selection-start-column="0" selection-end-line="436" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.常用内建模块/_xml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="168" column="4" lean-forward="false" selection-start-line="168" selection-start-column="4" selection-end-line="168" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.常用内建模块/_htmlParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -639,299 +696,309 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/成品/test.txt" />
-    <entry file="file://$PROJECT_DIR$/0.TEST/out.log" />
-    <entry file="file://$PROJECT_DIR$/成品/out.txt">
+    <entry file="file://$PROJECT_DIR$/9.IO编程/dump.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/成品/重定向.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="41" column="22" lean-forward="false" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/ntpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="73" column="4" lean-forward="false" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/9.IO编程/文件读写.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="270">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/9.IO编程/操作文件和目录.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-49">
-          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/pickle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="226" column="21" lean-forward="true" selection-start-line="226" selection-start-column="21" selection-end-line="226" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1099968596/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="5052" column="11" lean-forward="true" selection-start-line="5052" selection-start-column="11" selection-end-line="5052" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.python基础/string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="50" column="21" lean-forward="false" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9.IO编程/dump.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/成品/连接非字符串数组.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/json/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4536">
-          <caret line="191" column="67" lean-forward="false" selection-start-line="191" selection-start-column="60" selection-end-line="191" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.函数式编程/闭包.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.函数式编程/闭包测验counter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
+        <state relative-caret-position="194">
+          <caret line="62" column="22" lean-forward="false" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/9.IO编程/序列化.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="55" column="13" lean-forward="false" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        <state relative-caret-position="-42">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7.面向对象高级编程/使用__slots__.py">
+    <entry file="file://$PROJECT_DIR$/9.IO编程/StringIO&amp;BytesIO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state relative-caret-position="528">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.进程和线程/进程/进程池.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/PIL/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="26" column="114" lean-forward="false" selection-start-line="26" selection-start-column="114" selection-end-line="26" selection-end-column="114" />
-          <folding>
-            <element signature="e#48#80#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="-884">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/subprocess.py">
+    <entry file="file://$PROJECT_DIR$/13.常用第三方模块/Pillow/scale.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="848" column="22" lean-forward="false" selection-start-line="848" selection-start-column="16" selection-end-line="848" selection-end-column="22" />
+        <state relative-caret-position="384">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.进程和线程/进程/子进程.py">
+    <entry file="file://$PROJECT_DIR$/13.常用第三方模块/Pillow/test.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.常用第三方模块/Pillow/blur.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.常用第三方模块/Pillow/blur.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.常用第三方模块/Pillow/thumbnail.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.python基础/字符串和编码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/PIL/ImageDraw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="207" column="8" lean-forward="false" selection-start-line="207" selection-start-column="8" selection-end-line="207" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.常用第三方模块/Pillow/verify_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.常用第三方模块/Pillow/code.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.常用第三方模块/requests/_request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="53" column="29" lean-forward="false" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.常用第三方模块/chardet/_chardet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="22" column="44" lean-forward="false" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.图形界面/_Tkinter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.常用第三方模块/psutil/_psutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="98" column="6" lean-forward="true" selection-start-line="98" selection-start-column="6" selection-end-line="98" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.网络编程/TCP编程/sina.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2328">
+          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.网络编程/TCP编程/client2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.网络编程/TCP编程/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.网络编程/TCP编程/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="42" column="17" lean-forward="false" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.网络编程/UDP编程/client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding />
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.进程和线程/进程/进程间通信.py">
+    <entry file="file://$PROJECT_DIR$/16.网络编程/UDP编程/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-          <folding>
-            <element signature="e#48#90#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="336">
+          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.进程和线程/进程/多进程创建.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/mysql/connector/connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-          <folding>
-            <element signature="e#337#372#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="175">
+          <caret line="426" column="0" lean-forward="false" selection-start-line="426" selection-start-column="0" selection-end-line="426" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18.访问数据库/_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20.异步IO/协程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0.TEST/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding>
-            <element signature="e#48#57#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="72">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/multiprocessing/__init__.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/asyncio/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-624">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/multiprocessing/spawn.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/asyncio/streams.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="391">
+          <caret line="68" column="19" lean-forward="false" selection-start-line="67" selection-start-column="52" selection-end-line="68" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.进程和线程/线程/锁.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.进程和线程/线程/线程创建.py">
+    <entry file="file://$PROJECT_DIR$/20.异步IO/asyncio/asyncio_hello.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.进程和线程/分布式进程/task_master.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+          <caret line="11" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="e#48#74#0" expanded="true" />
+            <element signature="e#48#62#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.进程和线程/分布式进程/task_worker.py">
+    <entry file="file://$PROJECT_DIR$/20.异步IO/async_await/async_await_wget.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-          <folding>
-            <element signature="e#48#71#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="288">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.进程和线程/进程/Pipe实现进程通信.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/datetime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="1714" column="24" lean-forward="true" selection-start-line="1714" selection-start-column="24" selection-end-line="1714" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11.正则表达式/正则.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.常用内建模块/_datetime.py">
+    <entry file="file://$PROJECT_DIR$/20.异步IO/async_await/async_await_hello.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-          <folding>
-            <element signature="e#48#98#0" expanded="true" />
-          </folding>
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6.面向对象编程/获取对象信息.py">
+    <entry file="file://$PROJECT_DIR$/20.异步IO/asyncio/asyncio_wget.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="456">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20.异步IO/aio_web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="61" lean-forward="false" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+          <folding>
+            <element signature="e#148#162#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7.面向对象高级编程/使用枚举类.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="312">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6.面向对象编程/继承和多态.py">
+    <entry file="file://$PROJECT_DIR$/7.面向对象高级编程/定制类.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="96">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1099968596/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="798" column="8" lean-forward="false" selection-start-line="798" selection-start-column="8" selection-end-line="798" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.函数/函数参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.TEST/leaveNote.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.TEST/leaveNote.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7.面向对象高级编程/使用元类.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="50" column="29" lean-forward="true" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/collections/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="160" column="11" lean-forward="true" selection-start-line="160" selection-start-column="11" selection-end-line="160" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.常用内建模块/_collections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="102" column="32" lean-forward="false" selection-start-line="102" selection-start-column="32" selection-end-line="102" selection-end-column="32" />
           <folding />
         </state>
       </provider>

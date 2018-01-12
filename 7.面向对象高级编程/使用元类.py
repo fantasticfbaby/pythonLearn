@@ -59,6 +59,10 @@ class IntegerField(Field):
 
 class ModelMetaclass(type):
     def __new__(cls, name, bases, attrs):
+        print('ModelMetaclass-cls: ',cls)
+        print('ModelMetaclass-name: ',name)
+        print('ModelMetaclass-bases: ',bases)
+        print('ModelMetaclass-attrs: ',attrs)
         if name == 'Model':
             return type.__new__(cls, name, bases, attrs)
         print('Found model: %s' % name)
@@ -78,6 +82,7 @@ class Model(dict, metaclass=ModelMetaclass):
     def __init__(self, **kw):
         super().__init__(**kw)
 
+    # 当调用不存在的属性时，Python解释器会试图调用__getattr__(self, 'score')来尝试获得属性
     def __getattr__(self, key):
         try:
             return self[key]

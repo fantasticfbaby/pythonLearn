@@ -28,3 +28,6 @@ print(s3)
 print(s4)
 # 设置sep='\n'
 print(n,f,s1,s2,s3,s4,sep='\n')
+
+with open('tmp.txt','w') as tmp:
+    print('Hello', 'World', end='End', sep='-', file=tmp)
