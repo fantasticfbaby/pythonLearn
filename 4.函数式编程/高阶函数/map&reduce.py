@@ -3,6 +3,7 @@
 print('map')
 def f(x):
     return x * x
+# 这里必须调用list，py3中map返回的是一个Iterator，只有真正去调用它才会去实现map内部代码
 print(list(map(f, [1,2,3,4,5,6,7,8,9])))
 print()
 print('把list看所有数字转为字符串')

@@ -27,6 +27,7 @@ Pickle的问题和所有其他编程语言特有的序列化问题一样，就�
 import json
 
 d = dict(name='Frank', age=20, score=88)
+print(type(d))
 print(json.dumps(d))
 print(type(json.dumps(d)))
 '''

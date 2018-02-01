@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import sys
-print(sys.version)
+import os
+print(os.path.join('aa', 'bb'))
